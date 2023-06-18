@@ -6,7 +6,7 @@ Este é um projeto criado com o objetivo de fornecer exemplos e exercícios prá
 
 Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
 
-- Java Development Kit (JDK) 11 ou superior
+- Java Development Kit (JDK) 8 ou superior
 - Maven 3 ou superior (opcional, apenas se você quiser aproveitar o sistema de gerenciamento de dependências)
 
 ## Configuração do Projeto
@@ -24,7 +24,7 @@ O projeto aborda uma variedade de tópicos avançados do Java, incluindo, mas n�
 - **Optional**: Utilização do tipo `Optional` para tratamento de valores nulos de forma mais segura.
 - **API de Data e Hora**: Manipulação de datas, horas e intervalos de tempo com as classes do pacote `java.time`.
 - **Concorrentes e Paralelas**: Exploração de tópicos relacionados a programação concorrente e paralela usando `CompletableFuture`, `ExecutorService`, `ForkJoinPool` e outros recursos.
-- **Novidades do Java 11, 12, 13, 14, 15, 16 e 17**: Demonstrações de recursos específicos introduzidos em cada versão do Java, como `var`, `switch expressions`, `record`, `pattern matching` e outros.
+- **Novidades do Java 8, 9, 10, 11, 12, 13, 14, 15, 16 e 17**: Demonstrações de recursos específicos introduzidos em cada versão do Java, como `var`, `switch expressions`, `record`, `pattern matching` e outros.
 
 ## Contribuindo
 
